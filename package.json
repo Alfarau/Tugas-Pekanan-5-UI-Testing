@@ -1,0 +1,25 @@
+{
+  "name": "tugas-pekanan-5-ui-testing",
+  "version": "1.0.0",
+  "description": "Tugas Pekanan 5 UI Testing Sanbercode",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alfarau/Tugas-Pekanan-5-UI-Testing.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "Alfarau AlA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alfarau/Tugas-Pekanan-5-UI-Testing/issues"
+  },
+  "homepage": "https://github.com/Alfarau/Tugas-Pekanan-5-UI-Testing#readme",
+  "dependencies": {
+    "cypress": "^11.2.0"
+  }
+}
