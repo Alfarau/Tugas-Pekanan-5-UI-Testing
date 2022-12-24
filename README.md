@@ -1,6 +1,6 @@
 ## Tugas-Pekanan-5-UI-Testing
-Alfarau Al A
-alfarau.id@gmail.com
+- Alfarau Al A
+- alfarau.id@gmail.com
 
 ## Installation
 - npm install cypress
