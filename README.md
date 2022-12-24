@@ -7,4 +7,4 @@ alfarau.id@gmail.com
 - npm install cypress
 
 ## How to run
-- npx run cypress
+- npx cypress run
