@@ -8,13 +8,11 @@ module.exports = defineConfig({
 
         specPattern : "cypress/support/e2e",
 
-        supportFile : false,
-
-    },
-
-    env: {
         username : "farau.test",
-        password : "farau123"
-    }
 
+        password : "farau123",
+
+        supportFile : false
+
+    }
 })
