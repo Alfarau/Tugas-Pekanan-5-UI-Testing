@@ -1,5 +1,4 @@
 ## Tugas-Pekanan-5-UI-Testing
-Tugas Pekanan 5 - UI Testing
 Alfarau Al A
 alfarau.id@gmail.com
 
